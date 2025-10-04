@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "modern-compose-android-app-template"
+rootProject.name = "ParallaxWallpaper"
 include(":app")

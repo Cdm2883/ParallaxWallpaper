@@ -1,4 +1,4 @@
-package vip.cdms.stub.ui.theme
+package vip.cdms.parallaxwallpaper.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
